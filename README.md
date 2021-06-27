@@ -16,7 +16,7 @@ These rules are reminiscent of life as:
 So, it turns out that Game of Life is not a coincidental name.
 
 ## About the application
-This application enables the user to not only paint their own patterns/shapes, but also choose from pre-built ones, such as [Gosper Gliding Gun](https://conwaylife.com/wiki/Gosper_glider_gun). Moreover, there are other features such as setting the speed of the simulation etc. The application GUI offers instructions to the user and explains the game's rules (see Application Pics).
+This application enables the user to not only paint their own patterns/shapes, but also choose from pre-built ones, such as [Gosper Gliding Gun](https://conwaylife.com/wiki/Gosper_glider_gun). Moreover, there are other features such as setting the speed of the simulation etc. The application GUI offers instructions to the user and explains the game's rules (see [Application Pics](https://github.com/n-roussos/A-Python-Implementation-of-Conway-s-Game-of-Life/tree/main/Pics/Application%20Pics)).
 
 ## Useful links
 1. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
