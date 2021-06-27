@@ -28,5 +28,5 @@ This application enables the user to not only paint their own patterns/shapes, b
 ### Author
 **Nick Roussos** (Dipl. Eng. Electrical and Computer Engineering Department, Univ. of Patras, Greece)
   - Email: nroussos97 [at] gmail.com
-  - [LinkedIn profile](https://www.linkedin.com/in/nick-roussos-205)
+  - [LinkedIn profile](https://www.linkedin.com/in/nick-roussos)
 
